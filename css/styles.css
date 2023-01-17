@@ -76,7 +76,9 @@ div#postcard{
 }
 
 .text-container{
-    font-size: 0.9rem;
+    position: relative;
+    bottom: 10px;
+    font-size: 1rem;
     padding: 5px;
 }
 
